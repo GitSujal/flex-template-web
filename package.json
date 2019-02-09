@@ -53,7 +53,8 @@
     "sharetribe-scripts": "1.1.5",
     "smoothscroll-polyfill": "^0.4.0",
     "source-map-support": "^0.5.9",
-    "url": "^0.11.0"
+    "url": "^0.11.0",
+    "yarn": "^1.13.0"
   },
   "devDependencies": {
     "bfj": "^6.1.1",
